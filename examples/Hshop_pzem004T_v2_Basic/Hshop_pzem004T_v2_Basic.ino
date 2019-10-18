@@ -15,8 +15,8 @@
 
 #include "Hshopvn_Pzem004t_V2.h"
 
-#define RX_PZEM     3
-#define TX_PZEM     2
+#define RX_PZEM     12
+#define TX_PZEM     11
 
 // Using with SoftwareSerial.
 Hshopvn_Pzem004t_V2 pzem1(TX_PZEM, RX_PZEM);
